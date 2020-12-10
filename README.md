@@ -1,4 +1,4 @@
-# Fortunetell
+# 算命的科学
 
 ![screenshot](https://github.com/cp110/Fortunetell/blob/main/img/screenshot.jpg)
 
