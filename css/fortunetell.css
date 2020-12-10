@@ -1,0 +1,55 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+table {
+    margin: 0 auto;
+    background-color: aqua;
+    border-collapse: collapse;
+    margin-top: 16px;
+}
+
+caption {
+    caption-side: bottom;
+    white-space:nowrap;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+div, p {
+    text-align: center;
+}
+
+button {
+    background-color: darkseagreen;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 2px 16px;
+    margin: 2px 16px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+a {
+    color: black;
+    font-size: 14px;
+}
+
+#fortunetellResultElement {
+    color: darkmagenta;
+}
