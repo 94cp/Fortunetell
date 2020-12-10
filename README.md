@@ -1,5 +1,7 @@
 # Fortunetell
 
+![screenshot](https://github.com/cp110/Fortunetell/blob/main/img/screenshot.jpg)
+
 ## 原理揭秘
 
 ### 1、十进制与二进制
