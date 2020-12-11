@@ -50,6 +50,11 @@ a {
     font-size: 14px;
 }
 
+footer {
+    margin-top: 16px;
+    height: 50px;
+}
+
 #fortunetellResultElement {
     color: darkmagenta;
 }
